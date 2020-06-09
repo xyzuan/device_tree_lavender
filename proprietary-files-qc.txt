@@ -113,9 +113,9 @@ vendor/lib64/libsysmon_cdsp_skel.so|40d3511922c744016c419983b18f97952c23fee5
 vendor/bin/hvdcp_opti|8473b304aa2300c425e090da6688c1c124305b97
 
 # CNE - from LA.UM.8.2.r1-06200-sdm660.0
--vendor/app/CneApp/CneApp.apk|f26523cd2fd11c596fc6b3abf2a2fc73c6443663
+-vendor/app/CneApp/CneApp.apk|f7d6ced6f372df62dd2be547602bdf713da804a5
 -vendor/app/IWlanService/IWlanService.apk|32cb03f65a3412c7e0390b445ce5f36bcedfb809
-vendor/bin/cnd|9a00a4b3186d79c0dcb11c0511a2df848f30d320
+vendor/bin/cnd|26b8d6bd6b0b82c92c3dec6b86e42fede86f62dd
 vendor/etc/init/cnd.rc|3a5183df3479500fb729493bc56c71166fc10bce
 vendor/lib64/libcne.so|4c83b8a57e5ade7ae1210eca3572e3ba404cd7b0
 vendor/lib64/libcneapiclient.so|7bb109c43e2f135032859187150e800f336dca5d
@@ -543,7 +543,7 @@ vendor/lib64/vendor.qti.imsrtpservice@2.1-service-Impl.so|1673fd7b807dcc317cc73c
 vendor/lib64/vendor.qti.imsrtpservice@2.1.so|780288d1d8d79fa16fbbe9bce6edaa4e1424cdb1
 
 # Soter - from LA.UM.8.2.r1-06200-sdm660.0
--app/SoterService/SoterService.apk|897999e257f5e59ebe2f9ca08a4f5512602f6c5e
+-app/SoterService/SoterService.apk|482523fabe02255e7ab6f80fbaaabe32c8fb3be9
 
 # Soter - from LA.UM.8.2.r1-06700-sdm660.0
 vendor/bin/hw/vendor.qti.hardware.soter@1.0-service|37f9501fa45a69ba3a27fd338704d76afc534bcb
@@ -564,7 +564,7 @@ vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc|2cfc563d7e157937
 vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|1ac676dca4c81094b254b62f1b608e471b385847
 
 # Wi-Fi - from LA.UM.8.2.r1-06200-sdm660.0
-vendor/bin/cnss-daemon|d7118e205124e456e6d5ff01efeb8ad931001eb3
+vendor/bin/cnss-daemon|3da25e53740bc6bf7464d463001eceb97bc67d9b
 
 # WFD - from LA.UM.8.2.r1-06700-sdm660.0
 -framework/WfdCommon.jar|3440607d29511e1a671e565a2acc4d262e38a9fb
