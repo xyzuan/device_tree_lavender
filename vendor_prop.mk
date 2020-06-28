@@ -146,7 +146,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
     vendor.gralloc.enable_fb_ubwc=1
 
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    debug.cpurend.vsync=false
+    debug.cpurend.vsync=false \
+    debug.gralloc.enable_fb_ubwc=1 \
+    sdm.debug.disable_skip_validate=1
 
 # DRM
 PRODUCT_PROPERTY_OVERRIDES += \
