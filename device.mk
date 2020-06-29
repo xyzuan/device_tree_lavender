@@ -464,5 +464,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     WfdCommon
 
+# AncientParts
+PRODUCT_PACKAGES += \
+    AncientParts
+
 # Vendor properties
 -include $(LOCAL_PATH)/vendor_prop.mk
