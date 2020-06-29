@@ -443,3 +443,7 @@ PRODUCT_PACKAGES += \
     
 PRODUCT_BOOT_JARS += \
     WfdCommon
+
+# AncientParts
+PRODUCT_PACKAGES += \
+    AncientParts
