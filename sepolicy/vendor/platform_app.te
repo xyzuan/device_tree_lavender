@@ -1,3 +1,7 @@
+# WeebsX Gear
+allow platform_app sysfs_fps:file { getattr open read };
+
+# Common
 r_dir_file(platform_app, sysfs_kgsl)
 
 # Face Unlock

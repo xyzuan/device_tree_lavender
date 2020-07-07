@@ -1,13 +1,17 @@
+# WeebsX Gear
+type kcal_dev, sysfs_type, fs_type;
+type sysfs_egain, sysfs_type, fs_type;
+type sysfs_hgain, sysfs_type, fs_type;
+type sysfs_mgain, sysfs_type, fs_type;
+type sysfs_sgain, sysfs_type, fs_type;
+type sysfs_backlightdim, sysfs_type, fs_type;
+type sysfs_fps, sysfs_type, fs_type;
+type sysfs_info, sysfs_type, fs_type;
+type sysfs_torch, sysfs_type, fs_type;
+type sysfs_fastcharge, sysfs_type, fs_type;
+type sysfs_touchboost, sysfs_type, fs_type;
+
 type ir_dev_file, file_type;
 type public_adsprpcd_file, file_type;
 type sysfs_fingerprint, fs_type, sysfs_type;
 type thermal_data_file, file_type, data_file_type;
-
-# XiaomiParts
-type kcal_dev, sysfs_type, fs_type;
-type sysfs_headgain, sysfs_type, fs_type;
-type sysfs_micgain, sysfs_type, fs_type;
-type sysfs_backlightdim, sysfs_type, fs_type;
-type sysfs_fpsinfo, sysfs_type, fs_type;
-type sysfs_torch, sysfs_type, fs_type;
-type sysfs_fastcharge, sysfs_type, fs_type;
