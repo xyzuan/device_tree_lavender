@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	
+    <!-- QS header image -->
+    <dimen name="qs_header_image_offset">0dp</dimen>
+    <dimen name="qs_header_image_top_margin">32dp</dimen>
+
+    <!-- adding the ancient custom dimens -->
+    <dimen name="ancient_qs_margintop">32dp</dimen>
+    <dimen name="ancient_qs_margintoptop">32dp</dimen>
+    <dimen name="ancient_headerimg_size">180dp</dimen>
+
+    <!-- Custom margin for qsquick -->
+    <dimen name="ancient_qsquick_margin">140dp</dimen>
+    
+</resources>
