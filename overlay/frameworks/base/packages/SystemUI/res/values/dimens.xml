@@ -23,4 +23,8 @@
 
     <!-- Volume panel -->
     <dimen name="volume_dialog_panel_transparent_padding_left">4dp</dimen>
+
+    <!-- QS Header Panel Height -->
+    <dimen name="qs_quick_header_panel_height">180dp</dimen>
+
 </resources>
