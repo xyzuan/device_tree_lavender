@@ -6,6 +6,7 @@
     <dimen name="qs_header_image_top_margin">32dp</dimen>
 
     <!-- adding the ancient custom dimens -->
+    <dimen name="anci_stockui_margintop">40dp</dimen>
     <dimen name="ancient_qs_margintop">32dp</dimen>
     <dimen name="ancient_qs_margintoptop">32dp</dimen>
     <dimen name="ancient_headerimg_size">180dp</dimen>
