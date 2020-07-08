@@ -24,3 +24,15 @@ genfscon sysfs /devices/soc/soc:fpc1020/irq                     u:object_r:sysfs
 
 # RTC
 genfscon sysfs /devices/soc/800f000.qcom,spmi/spmi-0/spmi0-00/800f000.qcom,spmi:qcom,pm660@0:qcom,pm660_rtc/rtc                         u:object_r:sysfs_rtc:s0
+
+# Earpiece gain
+genfscon sysfs /sys/kernel/sound_control/earpiece_gain                      u:object_r:sysfs_egain:s0
+
+# Headphone gain
+genfscon sysfs /sys/kernel/sound_control/headphone_gain                     u:object_r:sysfs_headgain:s0
+
+# Microphone gain
+genfscon sysfs /sys/kernel/sound_control/mic_gain                           u:object_r:sysfs_micgain:s0
+
+# Speaker gain
+genfscon sysfs /sys/kernel/sound_control/speaker_gain                       u:object_r:sysfs_sgain:s0
